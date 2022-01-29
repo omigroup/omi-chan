@@ -6,6 +6,7 @@ This is the repo to hold all OMI-chan avatar assets, track backlog items, as wel
 - The OMI-Chan group meets on _____ days every _____ week(s) at _____ UTC (24:00 Format) 
 - We track our active tickets with our backlog: 
 - We discuss OMI-Chan efforts using github discussions: 
+- Any questions? Contact the designated OMI-Chan working group lead(s) ______
 
 Our Commitments: 
 - Recurring meeting is at ___ 
