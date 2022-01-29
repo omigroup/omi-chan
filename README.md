@@ -4,8 +4,8 @@ This is the repo to hold all OMI-chan avatar assets, track backlog items, as wel
 
 ## How you can get involved: 
 - The OMI-Chan group meets on _____ days every _____ week(s) at _____ UTC (24:00 Format) 
-- We track our active tickets with our backlog: 
-- We discuss OMI-Chan efforts using github discussions: 
+- We track our active tickets with our [omigroup/omi-chan Github Projects Kanban Backlog](https://github.com/omigroup/omi-chan/projects/1?add_cards_query=is%3Aopen)
+- We discuss OMI-Chan efforts using [omi-chan github discussions](https://github.com/omigroup/omi-chan/discussions)
 - Any questions? Contact the designated OMI-Chan working group lead(s) ______
 
 Our Commitments: 
