@@ -6,7 +6,7 @@ This is the repo to hold all OMI-chan avatar assets, track backlog items, as wel
 OMI-Chan is a virtual mascot for the OMI group as well as a avatar asset for demonstrating the standards being developed. showing the technology off with these and opening up ways to introduce new people to OMI's concepts in visual mediums in the future.
 
 ## How you can get involved: 
-- The OMI-Chan group meets on Saturdays every week at 20:00 - 21:00 UTC.
+- The OMI-Chan group meets on Tuesdays every week at 23:00 - 23:30 UTC.
 - We track our active tickets with our [omigroup/omi-chan Github Projects Kanban Backlog](https://github.com/omigroup/omi-chan/projects/1?add_cards_query=is%3Aopen).
 - We organize our backlog with intent using github [Milestones](https://github.com/omigroup/omi-chan/milestones) which makes it easier to track progress based on desired outcomes and objectives.
 - We discuss OMI-Chan efforts using [omi-chan github discussions](https://github.com/omigroup/omi-chan/discussions) and in the OMI/AngellXR Discord [#omi-chan-avatar-design](https://discord.gg/bSN983Dw).
