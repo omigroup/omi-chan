@@ -3,7 +3,7 @@
 This is the repo to hold all OMI-chan avatar assets, track backlog items, as well as discussions. 
 
 ### What is OMI-Chan? 
-OMI-Chan is a virtual mascot for the OMI group as well as a avatar asset for showing of the standards being developed. showing the technology off with these and opening up ways to introduce new people to OMI's concepts in visual mediums in the future.
+OMI-Chan is a virtual mascot for the OMI group as well as a avatar asset for demonstrating the standards being developed. showing the technology off with these and opening up ways to introduce new people to OMI's concepts in visual mediums in the future.
 
 ## How you can get involved: 
 - The OMI-Chan group meets on Saturdays every week at 20:00 - 21:00 UTC.
